@@ -1,7 +1,8 @@
-/target
+target
 mysql
 php
 phpmyadmin
 test-files
-/Output
+Output
 older-main.rs
+.vscode
